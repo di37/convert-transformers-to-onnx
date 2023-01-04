@@ -1,0 +1,11 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch==1.13.0+cpu
+transformers==4.22.1
+optimum[onnxruntime]==1.4.1
+evaluate
+scikit-learn
+fastapi==0.88.0
+uvicorn==0.20.0
+pandas
+ipykernel
+sentence-transformers==2.2.2

@@ -1,0 +1,5 @@
+saved_models/all-MiniLM-L6-v2
+saved_models/all-MiniLM-L6-v2-onnx
+saved_models/bert-base-multilingual-uncased-sentiment
+saved_models/bert-base-multilingual-uncased-sentiment-onnx
+**/*__pycache__
